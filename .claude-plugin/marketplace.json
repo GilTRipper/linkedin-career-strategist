@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "giltripper",
+  "description": "Claude skills by GilTRipper",
+  "owner": {
+    "name": "Ilya M",
+    "url": "https://github.com/GilTRipper"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-career-strategist",
+      "description": "LinkedIn growth strategist and career coach: CV and profile audit for recruiter search, vacancy matching, human-sounding cover letters, company research, application tracker.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

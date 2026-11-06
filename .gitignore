@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.tmp
+*.zip
+job_tracker.csv

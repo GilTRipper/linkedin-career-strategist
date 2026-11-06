@@ -1,0 +1,80 @@
+# Стоп-лист для letter_check.py: фразы, которые выдают шаблон или ИИ-текст.
+# Одна фраза на строку, без учёта регистра. Добавляйте свои.
+
+## English — шаблонные открытия и закрытия
+i am writing to express my interest
+i am writing to apply
+i am excited to apply
+i am thrilled to apply
+i was thrilled to see
+i am confident that
+i believe i would be a great fit
+i would be a great fit
+perfect fit
+ideal candidate
+thank you for considering my application
+thank you for your time and consideration
+i look forward to hearing from you
+please find attached
+to whom it may concern
+dear hiring manager
+
+## English — пустые прилагательные и ИИ-лексика
+passionate about
+passion for
+highly motivated
+results-driven
+detail-oriented
+team player
+go-getter
+self-starter
+dynamic
+synergy
+leverage
+spearheaded
+cutting-edge
+fast-paced
+in today's fast-paced
+ever-evolving
+delve
+tapestry
+testament to
+navigate the complexities
+unlock
+elevate
+seamless
+robust
+holistic
+game-changer
+proven track record
+wealth of experience
+unique blend
+i thrive
+
+## Русский — канцелярит и шаблоны
+с большим интересом
+изучил вашу вакансию
+откликаюсь на вакансию
+прошу рассмотреть мою кандидатуру
+хотел бы предложить свою кандидатуру
+являюсь
+ответственный
+целеустремлённый
+целеустремленный
+стрессоустойчивый
+коммуникабельный
+быстро обучаюсь
+нацелен на результат
+активная жизненная позиция
+дружной команды
+дружный коллектив
+стать частью вашей команды
+внести свой вклад
+богатый опыт
+обширный опыт
+динамично развивающ
+в современном мире
+буду рад обсудить
+заранее благодарю
+спасибо за уделённое время
+спасибо за уделенное время

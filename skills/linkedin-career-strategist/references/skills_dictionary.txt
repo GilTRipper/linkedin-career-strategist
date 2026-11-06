@@ -1,0 +1,123 @@
+# Словарь навыков для keyword_match.py
+# Формат: Каноническое имя: синоним1, синоним2, ...
+# Синонимы ищутся без учёта регистра, как отдельные слова.
+# Синоним с префиксом = ищется с учётом регистра (нужно для коротких слов вроде Go).
+# Добавляйте свои строки — скрипт подхватит их автоматически.
+
+## Языки
+Python: python, python3
+JavaScript: javascript, js, ecmascript
+TypeScript: typescript, ts
+Go: golang, go lang, =Go
+Java: java
+Kotlin: kotlin
+Swift: swift
+Objective-C: objective-c, objc
+Dart: dart
+C#: c#, csharp, c sharp
+C++: c++, cpp
+Rust: rust
+PHP: php
+Ruby: ruby
+Scala: scala
+Elixir: elixir
+SQL: sql
+
+## Frontend
+React: react, react.js, reactjs
+Next.js: next.js, nextjs
+Vue: vue, vue.js, vuejs
+Nuxt: nuxt, nuxt.js
+Angular: angular
+Svelte: svelte, sveltekit
+Redux: redux, redux toolkit, rtk
+HTML/CSS: html, css, html5, css3
+Tailwind: tailwind, tailwindcss
+Webpack: webpack
+Vite: vite
+GraphQL: graphql, apollo
+
+## Mobile
+iOS: ios
+Android: android
+React Native: react native, react-native
+Flutter: flutter
+SwiftUI: swiftui
+UIKit: uikit
+Jetpack Compose: jetpack compose
+Kotlin Multiplatform: kotlin multiplatform, kmp, kmm
+
+## Backend и фреймворки
+Node.js: node.js, nodejs, node
+NestJS: nestjs, nest.js
+Express: express.js, expressjs
+Django: django
+FastAPI: fastapi
+Flask: flask
+Spring: spring, spring boot
+Laravel: laravel
+Symfony: symfony
+Ruby on Rails: rails, ruby on rails, ror
+.NET: .net, dotnet, asp.net
+gRPC: grpc
+REST API: rest api, restful, =REST
+Microservices: microservices, микросервисы, микросервисная архитектура
+WebSockets: websocket, websockets
+
+## Данные и хранилища
+PostgreSQL: postgresql, postgres, psql
+MySQL: mysql
+MongoDB: mongodb, mongo
+Redis: redis
+Elasticsearch: elasticsearch, elastic, opensearch
+ClickHouse: clickhouse
+Kafka: kafka, apache kafka
+RabbitMQ: rabbitmq
+Snowflake: snowflake
+BigQuery: bigquery
+Airflow: airflow, apache airflow
+Spark: spark, pyspark, apache spark
+dbt: dbt
+
+## Инфраструктура
+Docker: docker
+Kubernetes: kubernetes, k8s
+Terraform: terraform
+Ansible: ansible
+Helm: helm
+AWS: aws, amazon web services
+GCP: gcp, google cloud
+Azure: azure
+CI/CD: ci/cd, ci cd, continuous integration, github actions, gitlab ci, jenkins
+Linux: linux
+Nginx: nginx
+Prometheus: prometheus
+Grafana: grafana
+Observability: observability, мониторинг, monitoring, opentelemetry
+Serverless: serverless, lambda
+
+## ML / AI
+Machine Learning: machine learning, ml, машинное обучение
+LLM: llm, large language models, gpt, openai, anthropic
+PyTorch: pytorch
+TensorFlow: tensorflow
+RAG: rag, retrieval augmented generation
+
+## Качество и процессы
+Unit testing: unit tests, unit testing, юнит-тесты, модульные тесты
+Test automation: test automation, автотесты, автоматизация тестирования
+Jest: jest
+Cypress: cypress
+Playwright: playwright
+Selenium: selenium
+TDD: tdd, test-driven
+Code review: code review, код-ревью, ревью кода
+Agile: agile, scrum, kanban
+System design: system design, системный дизайн, архитектура
+Git: git
+
+## Роль и софт-скиллы (часто фигурируют в фильтрах)
+Team lead: team lead, tech lead, тимлид, техлид
+Mentoring: mentoring, менторство, наставничество
+Stakeholder management: stakeholder management, stakeholders, стейкхолдеры
+English: english, английский
