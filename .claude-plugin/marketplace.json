@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "linkedin-career-strategist",
-      "description": "LinkedIn growth strategist and career coach: CV and profile audit for recruiter search, vacancy matching, human-sounding cover letters, company research, application tracker.",
+      "description": "LinkedIn growth strategist and career coach: CV and profile audit for recruiter search, vacancy matching with a work-authorization check, human-sounding cover letters, company research, LinkedIn post analytics, application tracker.",
       "source": "./",
       "category": "productivity"
     }

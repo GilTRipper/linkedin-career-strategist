@@ -1,7 +1,7 @@
 {
   "name": "linkedin-career-strategist",
-  "version": "1.0.0",
-  "description": "LinkedIn growth strategist and career coach: CV and profile audit for recruiter search, vacancy matching, human-sounding cover letters, company research, application tracker.",
+  "version": "1.1.0",
+  "description": "LinkedIn growth strategist and career coach: CV and profile audit for recruiter search, vacancy matching with a work-authorization check, human-sounding cover letters, company research, LinkedIn post analytics, application tracker.",
   "author": {
     "name": "Ilya M",
     "url": "https://github.com/GilTRipper"
@@ -9,5 +9,5 @@
   "homepage": "https://github.com/GilTRipper/linkedin-career-strategist",
   "repository": "https://github.com/GilTRipper/linkedin-career-strategist",
   "license": "MIT",
-  "keywords": ["linkedin", "cv", "resume", "job-search", "career", "ats", "cover-letter"]
+  "keywords": ["linkedin", "cv", "resume", "job-search", "career", "ats", "cover-letter", "visa-sponsorship", "relocation", "linkedin-analytics"]
 }
